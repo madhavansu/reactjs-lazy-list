@@ -22,4 +22,4 @@ You will also see any lint errors in the console.
 ## Author
 
 Madhavan Subramanian
-email: madhavan.manian@gmail.com
+email: sunstare@gmail.com
