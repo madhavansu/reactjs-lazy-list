@@ -1,0 +1,29 @@
+.album {
+  border: 5px solid grey;
+}
+.album-container {
+  padding: 10px;
+  border-bottom: 2px solid grey;
+}
+.photo-container {
+  display: flex;
+  flex-wrap: nowrap; 
+  overflow: auto;
+  padding: 10px;
+}
+.photo-item {
+  flex: 0 0 auto;
+  text-align: center;
+  padding-right: 30px;
+}
+.photo-text-item {
+  display: inline-block;
+  width: 150px;
+  white-space: nowrap;
+  overflow: hidden !important;
+  text-overflow: ellipsis;
+  padding: 5px 0
+}
+.photo-container::-webkit-scrollbar {
+  display: none;
+}
