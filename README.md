@@ -1,17 +1,26 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# React lazy load
 
-## Dependency
+- This project is an example of lazy load feature with large data 
+- Implements the horizontal and vertical scrolling
 
-I am using react-lazyload for lazy loading functionality.
+## Demo
+[https://madhavansu.github.io/reactjs-lazy-list/](https://madhavansu.github.io/reactjs-lazy-list/)
 
-Before starting run
-### `npm install`
+## Quick start
 
-## Available Scripts
+Choose one of the following options:
 
-In the project directory, you can run:
+Clone the git repo — `git clone https://github.com/madhavansu/reactjs-lazy-list.git`.
 
-### `npm start`
+Run below commands
+
+```
+$ npm install
+```
+
+```
+$ npm start
+```
 
 Runs the app in the development mode.<br>
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
@@ -22,4 +31,5 @@ You will also see any lint errors in the console.
 ## Author
 
 Madhavan Subramanian
-email: sunstare@gmail.com
+
+Email: madhavan.manian@gmail.com
